@@ -1,0 +1,11 @@
+<?xml version="1.0" ?> 
+<Stock>
+<ABC>
+<Price>45</Price>
+<Qnty>54</Qnty>
+</ABC>
+<XYZ>
+<Price>45</Price>
+<Qnty>3</Qnty>
+</XYZ>
+</Stock>
